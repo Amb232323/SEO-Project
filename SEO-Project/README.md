@@ -2,11 +2,11 @@ Rosie Fievet-Pesez
 Mathis Monet--Pringuer
 
 Personna : Intervenants 
-tete de Cocon : ecole enigma informatique lille
-page mere : Recrutement intervenant informatique Lille
-pagefille1 : Formateur Cybersecurité lille
-pagefille2 : Formateur dev Lille
-pagefille3 : Fomateur data scientist lille
+tete de Cocon (Enigma-school.html): ecole enigma informatique lille
+page mere (Intervenant-informatique.html): Recrutement intervenant informatique Lille
+pagefille1 (Cybersécurité.html) : Formateur Cybersecurité lille
+pagefille2 (Developpement-web.html) : Formateur dev Lille
+pagefille3 (Data-scientist.html) : Fomateur data scientist lille
 
 Nos 5 mots clés : 
 
